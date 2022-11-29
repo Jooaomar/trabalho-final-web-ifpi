@@ -1,0 +1,28 @@
+header {
+    padding: 1%;
+}
+
+footer {
+    padding: 1%;
+}
+
+.sobre {
+    padding-top: 20px;
+}
+
+
+h5 {
+    padding-top: 20px;
+}
+
+.nav-space {
+    padding-top: 20px;
+}
+
+.background-body {
+    background-color: gray;
+}
+
+.config-container {
+    margin-top: 20px;
+}
